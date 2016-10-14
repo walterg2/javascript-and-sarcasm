@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://walterg2.github.io/javascript-and-sarcasm/sitemap.xml 
